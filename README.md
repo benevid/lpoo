@@ -82,7 +82,7 @@ Protótipo final requerido na disciplina. Envolve a apresentação/demonstraçã
 
 ## ![](http://ww3.sinaimg.cn/large/006tNc79gy1g5rn1zee12j300k00k741.jpg) Distribuição teórica das Aulas
 
-Aula 1 – Tema e Requisitos
+Aula 1 [**06 ago**] – Tema e Requisitos 
 
 Aula 2 - Projeto
 
