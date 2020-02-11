@@ -1,24 +1,32 @@
 # ![](http://ww3.sinaimg.cn/large/006tNc79gy1g5rn1zee12j300k00k741.jpg) Laboratório de Programação Orientada a Objetos (LPOO)
 
-> Turma 2019/2
+> Turma 2020-1
 
 
 
 ## ![](http://ww3.sinaimg.cn/large/006tNc79gy1g5rn1zee12j300k00k741.jpg) Acadêmicos
 
-1. Bernardo - Cadastro de Minicursos
 
-2. Emerson - Vendas automáticas via whats
 
-3. Gean - Gerenciamento de noticias - escolas
-
-4. Joao Paulo - 
-
-5. Juliano - Pets
-
-6. Kennedy - Gerador de Rotas de para NoCs
-
-7. Neilson - Ferramento de apoio ao suporte técnico de provedores
+1. 2104511992 - CHRISTIAN DA SILVA ALBUQUERQUE
+2. 2104465805 - EDUARDO FERNANDES BALBINO DE SOUZA
+3. 2104465959 - GABRIEL ALAN BUOSI
+4. 2104465861 - GIOVANE ALMEIDA DE OLIVEIRA
+5. 2104473207 - IVAN AUGUSTO ALVES DA ROCHA
+6. 2104465989 - JHONATAN BORGES SOUSA
+7. 2104473252 - JOÃO PAULO CAVALCANTE ZANATTA
+8. 2104465843 - JOÃO VICTOR DIAS RAMOS
+9. 2104461474 - JULIANO RODRIGO DE SOUSA
+10. 2104465977 - LUCAS HENRIQUE BENEDITO
+11. 2104463761 - NEILSON FERREIRA SEVERINO
+12. 2104465696 - NICKY JHAMES BARBOSA SOUZA
+13. 2104465801 - PAULO ANTONIO ANAZCO BENITES
+14. 2104473256 - PAULO CÉSAR MARTINS PORTILHO
+15. 2104473248 - SERGIO BARBOSA RAMOS
+16. 2104527411 - TANIA FILGUEIRAS JAEGER
+17. 2104473319 - VITORIA CAROLINE ZUNTINI
+18. 2104465871 - WESLEY FERREIRA DOS SANTOS
+19. 2104465969 - WILHAN AZEVEDO DIONIZIO
 
 
 
@@ -82,35 +90,7 @@ Protótipo final requerido na disciplina. Envolve a apresentação/demonstraçã
 
 ## ![](http://ww3.sinaimg.cn/large/006tNc79gy1g5rn1zee12j300k00k741.jpg) Distribuição teórica das Aulas
 
-Aula 1 [**06 ago**] – Tema e Requisitos 
 
-Aula 2 - Projeto
-
-Aula 3 - Projeto
-
-Aula 4 - Codificação
-
-Aula 5 - Codificação
-
-Aula 6 - Codificação
-
-Aula 7 – Artefato e Testes
-
-Aula 8 – Projeto/Cod
-
-Aula 9 - Codificação
-
-Aula 10 - Codificação
-
-Aula 11 - Codificação
-
-Aula 12 - Artefato e Testes
-
-Aula 13 – Projeto/Cod
-
-Aula 14 - Artefato e Testes
-
-Aula 15 - Protótipo
 
 
 
