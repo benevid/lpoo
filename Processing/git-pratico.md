@@ -2,17 +2,10 @@
 
 apenas um guia prático para começar com git. sem complicação ;)
 
-<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.7303c29a8108bca4ac5c9ef008ed8164.en.html#dnt=false&amp;hashtags=git&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=https%3A%2F%2Frogerdudler.github.io%2Fgit-guide%2Findex.pt_BR.html&amp;related=rogerdudler&amp;size=l&amp;text=git%20-%20guia%20pr%C3%A1tico%20-%20sem%20complica%C3%A7%C3%A3o!&amp;time=1582056362111&amp;type=share&amp;url=http%3A%2F%2Frogerdudler.github.com%2Fgit-guide&amp;via=rogerdudler" data-url="http://rogerdudler.github.com/git-guide" style="position: static; visibility: visible; width: 76px; height: 28px;"></iframe>
-
 por [Roger Dudler](http://www.twitter.com/rogerdudler)
 créditos para [@tfnico](http://www.twitter.com/tfnico), [@fhd](http://www.twitter.com/fhd) and [Namics](http://www.namics.com/)
-guia em [english](https://rogerdudler.github.io/git-guide/index.html), [deutsch](https://rogerdudler.github.io/git-guide/index.de.html), [español](https://rogerdudler.github.io/git-guide/index.es.html), [français](https://rogerdudler.github.io/git-guide/index.fr.html), [indonesian](https://rogerdudler.github.io/git-guide/index.id.html), [italiano](https://rogerdudler.github.io/git-guide/index.it.html), [nederlands](https://rogerdudler.github.io/git-guide/index.nl.html), [polski](https://rogerdudler.github.io/git-guide/index.pl.html), [русский](https://rogerdudler.github.io/git-guide/index.ru.html), [türkçe](https://rogerdudler.github.io/git-guide/index.tr.html),
-[မြန်မာ](https://rogerdudler.github.io/git-guide/index.my.html), [日本語](https://rogerdudler.github.io/git-guide/index.ja.html), [中文](https://rogerdudler.github.io/git-guide/index.zh.html), [한국어](https://rogerdudler.github.io/git-guide/index.ko.html)
-por favor informe problemas em [github](https://github.com/rogerdudler/git-guide/issues)
 
 ![img](https://rogerdudler.github.io/git-guide/img/arrow.png)
-
-
 
 ## instalação
 
